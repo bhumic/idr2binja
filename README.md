@@ -15,10 +15,10 @@ This plugin requires the following minimum version of Binary Ninja:
 
 The following dependencies are required for this plugin:
 
- * pip - array, of, pip, dependencies
- * installers - https://bogus-domain/this-package.exe
- * other - The sample plugin requires [this random package](https://bogus-domain/this-package/) be installed.
- * apt - apt, packages
+ * pip - 
+ * installers - 
+ * other - 
+ * apt - 
 
 
 ## License
