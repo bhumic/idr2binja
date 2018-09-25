@@ -1,14 +1,8 @@
-# Sample Plugin (v1.0 alpha)
-Author: **Vector 35 LLC**
-
-_This is a short description meant to fit on one line._
-
+# idr2binja (v1.0 alpha)
+Author: **ubnix**
+_Transfer MAP file from IDR to Binary Ninja._
 ## Description:
-
-This is a longer description meant for a sample plugin that demonstrates the metadata format for Binary Ninja plugins.
-
-The forthcoming plugin installer will be able to parse these files automatically to allow easy selection and installation. 
-
+Translate the symbols from the MAP file of Interactive Delphi Reconstructor (IDR) tool to Binary Ninja to allow easier analysis of Delphi samples
 ## Minimum Version
 
 This plugin requires the following minimum version of Binary Ninja:
@@ -28,7 +22,5 @@ The following dependencies are required for this plugin:
 
 
 ## License
-
 This plugin is released under a [MIT](LICENSE) license.
-
 
